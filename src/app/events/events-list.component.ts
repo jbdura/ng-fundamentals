@@ -8,7 +8,7 @@ import { ToastrService } from 'ngx-toastr';
 // declare let toastr
 
 @Component({
-  selector: 'events-list',
+  // selector: 'events-list',
   // templateUrl: './events-list.component.html',
   template: `
     <div>
